@@ -28,15 +28,15 @@ openjdk version "11.0.10" 2021-01-19 LTS
 OpenJDK Runtime Environment 18.9 (build 11.0.10+9-LTS)
 OpenJDK 64-Bit Server VM 18.9 (build 11.0.10+9-LTS, mixed mode, sharing)
 
-$ sudo su -
+# sudo su -
 Last login: Fri Apr 16 05:01:01 UTC 2021 on pts/0
 
-$ java -version
+# java -version
 openjdk version "11.0.10" 2021-01-19 LTS
 OpenJDK Runtime Environment 18.9 (build 11.0.10+9-LTS)
 OpenJDK 64-Bit Server VM 18.9 (build 11.0.10+9-LTS, mixed mode, sharing)
 
-$ exit
+# exit
 ```
 
 ## 2. Upload AMQ Broker Installer file
