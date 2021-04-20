@@ -1,8 +1,5 @@
 # AMQ Broker HA Replicatate 2VM
 
-## TBD
-
-
 ## Prerequirement
 
 * 2VM
