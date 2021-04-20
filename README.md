@@ -331,7 +331,7 @@ after login, AMQ01 WEB Console refer all elements.
 
 ### 8.2 Access AMQ02 WEB Console
 
-after login, AMQ02 WEB Console does not refer acceptor and address.
+after login, AMQ02 WEB Console does not refer acceptor and addresses.
 
 ![cluster](./img/amq02-1.jpg)
 
