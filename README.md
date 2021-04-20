@@ -92,7 +92,7 @@ Or you can run the broker in the background using:
    "/opt/redhat/amq-broker/amq-broker-7.8.1/broker/bin/artemis-service" start
 ```
 
-## 4. Registrer Linux Service
+## 4. Register Linux Service
 
 execute following commands both VMs.
 
